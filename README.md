@@ -1,3 +1,7 @@
-# Factory Defaults (`agency-poem-01`)
+# agency-poem-01 — Stop Sharing
 
-Map-ordered TypeScript implementation using `TextEncoder` and SHA-256 verification.
+Deterministic Node 22 stdlib entry for make.fun `agency-poem-01` (Round 2), writing 1..1,000 UTF-8 code points to `/output/entry.txt`.
+
+```bash
+MAKEFUN_OUTPUT_DIR=./out node main.ts
+```
